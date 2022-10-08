@@ -9,7 +9,7 @@
 ![Screenshot_20220817-132153_Home_Assistant](https://user-images.githubusercontent.com/46202109/194643054-425b4bc4-e0c3-46db-bd11-91afe6231a99.png)
 2) Input and output power
 ![Screenshot_20220817-132205_Home_Assistant](https://user-images.githubusercontent.com/46202109/194643207-f0605961-d5c8-40e7-a76e-edb729fd778d.png)
-### More percentage Jumps, with and without recalibration
+### Percentage Jumps, with and without recalibration
 #### Solar charging until 100% without output, the first jump from 94% to 99% did the device without our help. Then solarcharging and output. 2 recalibrations, one after running a washing machine, jump of 30% down, then solar charging, then recalibration, jump of 15% up.
 1) Battery percentage Delta Max
 ![Screenshot_20220821-214208_Home_Assistant](https://user-images.githubusercontent.com/46202109/194644768-5c3e2d97-5b42-40e9-ac30-6ce5d76fcc9a.png)
